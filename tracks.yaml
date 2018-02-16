@@ -65,7 +65,7 @@ tracks:
     release_tag: null
     ros_distro: kinetic
     vcs_type: tar
-    vcs_uri: /home/vrabaud/workspace/ws_opencv3/tmp/opencv.tar.gz
+    vcs_uri: ~/catkin_ws/opencv_test/tmp/opencv.tar.gz
     version: :{ask}
   lunar:
     actions:
